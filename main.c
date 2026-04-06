@@ -1,6 +1,10 @@
 #include <stdio.h>
+
 int main()
 {
-    // ここにコードを書いてね
+    int a, b;
+    scanf(""%d"", &a);
+    scanf(""%d"", &b);
+    printf(""%d"", a+b);
     return 0;
 }
